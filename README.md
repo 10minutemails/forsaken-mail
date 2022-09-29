@@ -2,6 +2,22 @@ Forsaken-Mail
 ==============
 A self-hosted disposable mail service.
 
+1 10 minute mail https://10-minutemail.com/
+
+2 temp mail https://tempmail.ink
+
+3 temp mail https://www.mailtemp.net/
+
+4 temp mail https://tempmails.info
+
+5 10 min mail https://email10min.net/
+
+6 ten minutes mail https://tenminutesmail.net/
+
+7 10 min mail https://10-minutemail.net
+
+8  10 min mail  https://10-minutemail.org
+
 [Online Demo](http://disposable.dhc-app.com)
 
 ### Installation
